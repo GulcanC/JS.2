@@ -1,6 +1,6 @@
 # Algorithme de Décriptage de ROTI13
 
-# split() | charCodeAt() | map() | join()
+# :point_right: split() | charCodeAt() | map() | join()
 
 A = N | B = O | C = P | D = Q | E = R | F = S | G = T | H = U | I = V | J = W | K = X | L = Y | M = Z
 
